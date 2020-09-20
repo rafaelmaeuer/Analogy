@@ -6,7 +6,7 @@ A Web Version of the beautiful Analogy Clock from Jesson Yip (originated from ht
 
 ### Information
 
-This is an adaption of the Analogy Clock for running in web browsers.
+This is an adaption of the Analogy Clock for running in web browsers. Press 'i' to invert colors from black to white.
 
 ### Platform
 
@@ -16,10 +16,11 @@ This version is built to run on a Raspberry Pi, therefore a conversion from SWF 
 
 ToDo:
 
-- [ ] Option to invert colors
+- Nothing open yet
 
 Done:
 
+- [x] Option to invert colors
 - [x] Fix centering layout for 100%
 - [x] Port SWF to JS using Google Swiffy
 - [x] Optimize animations (easeOutBack instead of easeOutElastic)
